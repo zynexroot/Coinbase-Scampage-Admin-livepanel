@@ -1,22 +1,16 @@
 # Coinbase-Scampage-Admin-livepanel
 
-I offer custom scam pages and live panels, with top functionality for any country. From basic setups to more complex systems.
-Contact me for pricing details and more information.
+I offer custom pages and live panels with advanced functionality, for any country. From basic setups to complex, high-performance systems. Included Features:
 
-Features:
-Live system no need loading page to redirect
-no socket installation required (long polling technique)
-support cpanel 
-auto on/off mode
-onetime visit / mobile-only / mobile mode
-telegram result
+    Live panel system with real-time response (no page reload or redirect)
+    No socket installation needed (long polling method)
+    Compatible with cPanel hosting
+    Automatic on/off functionality
+    One-time visit mode
+    Mobile-only access
+    Mobile-optimized layout
+    Telegram integration for real-time result delivery
 
-Join our telegram channel to watch Demo & New Panels we release
+Join our Telegram channel to view demos and stay updated on new panel releases.
 
-Channel Telegram: @zynexrootchannel
-
-
-Contact Telegram: @zynexroot
-
-
-Contact jabber: zynexroot@jabber.ru
+Channel Telegram: @zynexrootchannel Admin Telegram: @zynexroot
